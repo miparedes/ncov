@@ -18,7 +18,7 @@ fecha de la traducción: "2020 Jan 26"
 ```auspiceMainDisplayMarkdown
 ## Resumen Ejecutivo
 
-Examinamos la diversidad genética 27 genomas públicos del nuevo coronavirus (nCoV) para inferir la fecha del ancestro común más reciente y la tasa de propagación.
+Examinamos la diversidad genética de 27 genomas públicos del nuevo coronavirus (nCoV) para inferir la fecha del ancestro común más reciente y la tasa de propagación.
 Encontramos:
 * Los 27 genomas muestreados son muy similares y solo han acumulado entre 0 y 5 mutaciones.
 * La explicación mas parsimoniosa para este bajo grado de diversidad genética es que el brote proviene de una sola introducción en la población humana. También es posible que un pequeño número de transmisiones de virus muy similares hayan ocurrido desde animales a humanos.
